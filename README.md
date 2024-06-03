@@ -12,7 +12,7 @@
 ## Installation
 [don't know how to install python ?](#install-python)
 ```
-git clone https://github.com/CPMNuker/CPMNuker.git
+git clone https://github.com/FCGABOY99/vip
 ```
 ```
 cd FCGABOY
