@@ -1,5 +1,5 @@
 # FCGABOY
-<h3>CPMNuker is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
+<h3>FCGABOY is a tool made to modify Car Parking Multiplayer accounts with no root or vertual app.</h3>
 
 ![](./assets/tool.png)
 
@@ -15,7 +15,7 @@
 git clone https://github.com/FCGABOY99/vip
 ```
 ```
-cd FCGABOY
+cd ABOY
 ```
 ```
 pip install -r requirements.txt
